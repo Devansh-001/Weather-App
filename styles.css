@@ -15,7 +15,7 @@ h3 {
 
 .weather-app {
     min-height: 100vh;
-    background-image: url(./images/day/kenrick-mills-1h2Pg97SXfA-unsplash.jpg);
+    background-image: url('./images/day/sajad-nori-suuKCJBdQ_Q-unsplash.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -79,6 +79,8 @@ h3 {
     display: block;
     margin: 0.5em 0;
 }
+
+
 
 
 .panel {
